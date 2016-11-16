@@ -4,7 +4,8 @@
   "description": "Demonstration project for students",
   "scripts": {
     "postinstall": "webdriver-manager update",
-    "test": "protractor"
+    "test": "protractor",
+    "winfo": "webdriver-manager status"
   },
   "author": "Oleksandr Khotemskyi <xotabu4@gmail.com> (https://github.com/Xotabu4)",
   "license": "MIT",
